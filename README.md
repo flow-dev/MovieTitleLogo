@@ -1,6 +1,6 @@
 # MovieTitleLogo
 
-## Processingで,タイトルロゴを作ってみました.
+## Processingで,映像制作用にタイトルロゴを作ってみました.
 
 ![logo](hikaberoi_logo.gif)
 
