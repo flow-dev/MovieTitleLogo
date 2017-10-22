@@ -15,3 +15,5 @@
 [Processing入門講座](http://ap.kakoku.net/5-2.html)
 
 [FFmpegで動画をGIFに変換](https://qiita.com/wMETAw/items/fdb754022aec1da88e6e)
+
+[WindowsでFFmpegを使用する方法](http://whitecat-student.hatenablog.com/entry/2016/08/14/231215)
